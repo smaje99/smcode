@@ -745,6 +745,13 @@
 			"settings": {
 				"foreground": "#FB467B"
 			}
+		},
+		{
+			"name": "Python @ Function Decorator",
+			"scope": "meta.function.decorator.python",
+			"settings": {
+				"foreground": "#7834d1"
+			}
 		}
 	]
 }
