@@ -172,7 +172,6 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"constant.numeric",
 				"constant.language",
 				"support.constant",
 				"constant.character",
@@ -183,6 +182,16 @@
 			],
 			"settings": {
 				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Number, Null",
+			"scope": [
+				"constant.numeric",
+				"constant.language.null"
+			],
+			"settings": {
+				"foreground": "#ff628c"
 			}
 		},
 		{
