@@ -267,6 +267,13 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] - Storage Type Function",
+			"scope": "source.js storage.type.function",
+			"settings": {
+				"foreground": "#fb94ff"
+			}
+		},
+		{
 			"name": "Sub-methods",
 			"scope": [
 				"entity.name.module.js",
