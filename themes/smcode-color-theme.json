@@ -752,6 +752,14 @@
 			"settings": {
 				"foreground": "#7834d1"
 			}
+		},
+		{
+			"name": "Python support function",
+			"scope": "python.builtin.support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#CB6CFE"
+			}
 		}
 	]
 }
