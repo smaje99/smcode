@@ -267,6 +267,13 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] - Variable Language",
+			"scope": "variable.language, entity.name.type.class.js",
+			"settings": {
+				"foreground": "#fb94ff"
+			}
+		},
+		{
 			"name": "[JAVASCRIPT] - Storage Type Function",
 			"scope": "source.js storage.type.function",
 			"settings": {
