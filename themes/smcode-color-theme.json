@@ -738,6 +738,13 @@
 			"settings": {
 				"foreground": "#F78C6C"
 			}
+		},
+		{
+			"name": "Python Magic Variable",
+			"scope": "python.support.magic.variable",
+			"settings": {
+				"foreground": "#FB467B"
+			}
 		}
 	]
 }
