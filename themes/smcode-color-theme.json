@@ -627,7 +627,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#80869E50"
 			}
 		},
 		{
