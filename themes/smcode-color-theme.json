@@ -546,6 +546,15 @@
 			}
 		},
 		{
+			"name": "Markdown - Line Break",
+			"scope": [
+				"text.html.markdown meta.dummy.line-break"
+			],
+			"settings": {
+				"foreground": ""
+			}
+		},
+		{
 			"name": "Markdown - Heading",
 			"scope": [
 				"markdown.heading",
