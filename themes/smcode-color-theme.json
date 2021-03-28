@@ -775,6 +775,19 @@
 			"settings": {
 				"foreground": "#DDDDDD"
 			}
+		},
+		{
+			"name": "Go Keywords 1",
+			"scope": [
+				"source.go keyword.package.go",
+				"source.go keyword.function.go",
+				"source.go keyword.struct.go",
+				"source.go keyword.interface.go"
+			],
+			"settings": {
+				"foreground": "#89DDFF",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
