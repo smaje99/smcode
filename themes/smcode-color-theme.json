@@ -79,6 +79,16 @@
 			}
 		},
 		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword",
+				"storage"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
