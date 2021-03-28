@@ -697,12 +697,11 @@
 		{
 			"name": "Markdown - Fenced Bode Block Variable",
 			"scope": [
-				"markup.raw.block.fenced.markdown",
-				"variable.language.fenced.markdown",
-				"punctuation.section.class.end"
+				"markup.fenced_code.block.markdown",
+				"markup.inline.raw.string.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#8F93A290"
 			}
 		},
 		{
