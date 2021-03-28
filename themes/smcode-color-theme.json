@@ -731,6 +731,13 @@
 			"settings": {
 				"foreground": "#8F93A2"
 			}
+		},
+		{
+			"name": "Python Constant",
+			"scope": "constant.character.format.placeholder.other.python",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
 		}
 	]
 }
