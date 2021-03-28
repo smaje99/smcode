@@ -12,11 +12,12 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"string.quoted.docstring"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#464B5D"
 			}
 		},
 		{
@@ -26,7 +27,16 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#8F93A2"
+			}
+		},
+		{
+			"name": "PHP Constants",
+			"scope": [
+				"constant.other.php"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -46,6 +56,15 @@
 			],
 			"settings": {
 				"foreground": "#FF5370"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": [
+				"invalid.deprecated"
+			],
+			"settings": {
+				"foreground": "#C792EA"
 			}
 		},
 		{
