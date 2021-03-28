@@ -760,6 +760,14 @@
 				"fontStyle": "",
 				"foreground": "#CB6CFE"
 			}
+		},
+		{
+			"name": "Python Docstring",
+			"scope": "string.quoted.docstring.multi.python, string.quoted.docstring.multi.python keyword.control.flow.python",
+			"settings": {
+				"foreground": "#5C6370",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
