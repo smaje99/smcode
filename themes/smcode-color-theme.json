@@ -803,6 +803,16 @@
 				"foreground": "#FF628C",
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
+			"scope": [
+				"source.go constant.language.go",
+				"source.go constant.other.placerholder.go"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
 		}
 	]
 }
