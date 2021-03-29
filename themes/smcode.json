@@ -836,6 +836,36 @@
 			"settings": {
 				"foreground": "#8F93A2"
 			}
+		},
+		{
+			"name": "normalize font style of certain components",
+			"scope": [
+				"meta.tag.js meta.embedded.expression.js punctuation.section.embedded.begin.js",
+				"meta.tag.js meta.embedded.expression.js punctuation.section.embedded.end.js",
+				"meta.property-list.css meta.property-value.css variable.other.less",
+				"punctuation.section.embedded.begin.js.jsx",
+				"punctuation.section.embedded.end.js.jsx",
+				"meta.property-list.scss variable.scss",
+				"meta.property-list.sass variable.sass",
+				"keyword.operator.logical",
+				"keyword.operator.arithmetic",
+				"keyword.operator.bitwise",
+				"keyword.operator.increment",
+				"keyword.operator.ternary",
+				"keyword.operator.comparison",
+				"keyword.operator.assignment",
+				"keyword.operator.operator",
+				"keyword.operator.or.regexp",
+				"keyword.operator.expression.in",
+				"keyword.operator.type",
+				"punctuation.section.embedded.js",
+				"punctuation.definintion.string",
+				"punctuation",
+				"string"
+			],
+			"settings": {
+				"fontStyle": "normal"
+			}
 		}
 	]
 }
