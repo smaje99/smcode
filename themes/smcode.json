@@ -813,6 +813,13 @@
 			"settings": {
 				"foreground": "#F78C6C"
 			}
+		},
+		{
+			"name": "Backtics(``) in Template Strings",
+			"scope": "string.template punctuation.definition.string",
+			"settings": {
+				"foreground": "#80CBC4"
+			}
 		}
 	]
 }
