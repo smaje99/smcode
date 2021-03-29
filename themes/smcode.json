@@ -820,6 +820,13 @@
 			"settings": {
 				"foreground": "#80CBC4"
 			}
+		},
+		{
+			"name": "[YML] - Tags",
+			"scope": "entity.name.tag.yaml",
+			"settings": {
+				"foreground": "#C792EA"
+			}
 		}
 	]
 }
