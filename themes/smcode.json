@@ -356,7 +356,7 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Funtion Argument, Tag Atrribute Embedded",
+			"name": "Number, Constant, Function Argument, Tag Attribute Embedded",
 			"scope": [
 				"variable.parameter.function.language.special",
 				"variable.parameter"
@@ -387,7 +387,7 @@
 				"entity.name",
 				"support.type",
 				"support.class",
-				"support.orther.namespace.use.php",
+				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
@@ -969,7 +969,7 @@
 			"name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
 			"scope": [
 				"source.go constant.language.go",
-				"source.go constant.other.placerholder.go"
+				"source.go constant.other.placeholder.go"
 			],
 			"settings": {
 				"foreground": "#F78C6C"
@@ -1020,7 +1020,7 @@
 				"keyword.operator.expression.in",
 				"keyword.operator.type",
 				"punctuation.section.embedded.js",
-				"punctuation.definintion.string",
+				"punctuation.definition.string",
 				"punctuation",
 				"string"
 			],
