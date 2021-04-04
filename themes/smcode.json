@@ -564,6 +564,13 @@
 			}
 		},
 		{
+			"name": "Regex Character",
+			"scope": "constant.character.escape.backslash.regexp",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
 			"name": "Escape Characters",
 			"scope": [
 				"constant.character.escape"
