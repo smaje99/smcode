@@ -608,6 +608,13 @@
 			}
 		},
 		{
+			"name": "User-defined constant",
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
