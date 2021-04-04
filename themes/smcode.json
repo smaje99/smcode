@@ -1095,6 +1095,13 @@
 			}
 		},
 		{
+			"name": "C# Storage Type",
+			"scope": "storage.type.cs, storage.type.variable.cs",
+			"settings": {
+				"foreground": "#56D6D6"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
