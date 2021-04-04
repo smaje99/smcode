@@ -594,6 +594,13 @@
 			}
 		},
 		{
+			"name": "Classes",
+			"scope": "variable.other.class, meta.class.property variable.other.property",
+			"settings": {
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
