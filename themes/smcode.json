@@ -1021,11 +1021,18 @@
 				"keyword.operator.type",
 				"punctuation.section.embedded.js",
 				"punctuation.definition.string",
-				"punctuation",
-				"string"
+				"punctuation"
 			],
 			"settings": {
 				"fontStyle": "normal"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": #a5ff90
 			}
 		},
 		{
