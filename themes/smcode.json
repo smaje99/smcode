@@ -566,6 +566,13 @@
 			}
 		},
 		{
+			"name": "String URLs",
+			"scope": "string.detected-link",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "URL",
 			"scope": [
 				"*url*",
