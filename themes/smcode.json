@@ -587,6 +587,13 @@
 			}
 		},
 		{
+			"name": "Object Property",
+			"scope": "meta.property.object",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
