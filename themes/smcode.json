@@ -1067,6 +1067,13 @@
 			}
 		},
 		{
+			"name": "C# Preprocessor",
+			"scope": "meta.preprocessor, entity.name.function.preprocessor",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
