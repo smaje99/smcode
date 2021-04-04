@@ -615,6 +615,13 @@
 			}
 		},
 		{
+			"name": "User-defined constant",
+			"scope": "meta.group.braces variable.other.readwrite",
+			"settings": {
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
