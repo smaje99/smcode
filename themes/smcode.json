@@ -1081,6 +1081,13 @@
 			}
 		},
 		{
+			"name": "C# Namespace",
+			"scope": "meta.namespace.identifier entity.name.type, entity.name.variable",
+			"settings": {
+				"foreground": "#FFCC00"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
