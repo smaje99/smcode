@@ -622,6 +622,13 @@
 			}
 		},
 		{
+			"name": "Language - this",
+			"scope": "variable.language, meta.class variable.other.readwrite",
+			"settings": {
+				"foreground": "#97a7c8ff"
+			}
+		}
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
