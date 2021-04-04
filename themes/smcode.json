@@ -978,6 +978,13 @@
 			}
 		},
 		{
+			"name": "Keyword (new, if, return)",
+			"scope": "keyword.control, keyword.operator.new, keyword.operator.module, variable.language.super",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "Python Constant",
 			"scope": "constant.character.format.placeholder.other.python",
 			"settings": {
