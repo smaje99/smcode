@@ -1088,6 +1088,13 @@
 			}
 		},
 		{
+			"name": "C# Class Method",
+			"scope": "cs.meta.namespace.function.identifier.body.class.method",
+			"settings": {
+				"foreground": "#61AFEF"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
