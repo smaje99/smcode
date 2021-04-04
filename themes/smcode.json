@@ -580,6 +580,13 @@
 			}
 		},
 		{
+			"name": "Object",
+			"scope": "variable.other.object",
+			"settings": {
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
 			"settings": {
