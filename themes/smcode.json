@@ -1036,6 +1036,14 @@
 			}
 		},
 		{
+			"name": "Boolean",
+			"scope": "boolean",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "italicsify certain tokens",
 			"scope": [
 				"keyword.other.unit",
