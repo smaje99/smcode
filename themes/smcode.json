@@ -627,7 +627,14 @@
 			"settings": {
 				"foreground": "#97a7c8ff"
 			}
-		}
+		},
+		{
+			"name": "Language Prototype",
+			"scope": "variable.language.prototype",
+			"settings": {
+				"foreground": "#CED5E5"
+			}
+		},
 		{
 			"name": "String URLs",
 			"scope": "string.detected-link",
