@@ -331,6 +331,13 @@
 			}
 		},
 		{
+			"name": "Built-in Constants",
+			"scope": "markdown.python.constant.numeric",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"constant.language",
