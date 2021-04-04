@@ -1102,6 +1102,13 @@
 			}
 		},
 		{
+			"name": "C# Keyword",
+			"scope": "keyword, keyword.other.namespace, storage.modifier",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
