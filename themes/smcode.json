@@ -1029,6 +1029,14 @@
 			}
 		},
 		{
+			"name": "Python Operator",
+			"scope": "python.keyword.operator",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#FFCC00"
+			}
+		},
+		{
 			"name": "Go Function Calls",
 			"scope": "source.go meta.function-call.go",
 			"settings": {
@@ -1134,6 +1142,13 @@
 			"scope": "keyword.operator, constant.other.color, punctuation.separator.key-value",
 			"settings": {
 				"foreground": "#56D6D6"
+			}
+		},
+		{
+			"name": "Regexp keyword/Operator",
+			"scope": "keyword.regexp, keyword.operator.quantifier.regexp, keyword.operator.or.regexp, keyword.control.anchor.regexp",
+			"settings": {
+				"foreground": "#C3E88D"
 			}
 		},
 		{
