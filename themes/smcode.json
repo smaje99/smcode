@@ -1152,6 +1152,13 @@
 			}
 		},
 		{
+			"name": "Class name",
+			"scope": "entity.name.class, meta.class.extends variable.other.readwrite",
+			"settings": {
+				"foreground": "#FFCC00"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
