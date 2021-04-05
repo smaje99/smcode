@@ -1022,6 +1022,13 @@
 			}
 		},
 		{
+			"name": "Python Keyword Operator Logical",
+			"scope": "keyword.operator.logical.python",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "Go Function Calls",
 			"scope": "source.go meta.function-call.go",
 			"settings": {
