@@ -1052,6 +1052,14 @@
 			}
 		},
 		{
+			"name": "Python Function argument",
+			"scope": "variable.parameter.function.language.python",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "Go Function Calls",
 			"scope": "source.go meta.function-call.go",
 			"settings": {
