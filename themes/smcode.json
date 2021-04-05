@@ -396,6 +396,14 @@
 			}
 		},
 		{
+			"name": "variable.parameter",
+			"scope": "variable.parameter, token.variable.parameter, variable.other.jsdoc, variable.language.arguments, function.parameter",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#FB467B"
+			}
+		},
+		{
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
