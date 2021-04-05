@@ -1123,6 +1123,13 @@
 			}
 		},
 		{
+			"name": "Operator Accessor (.)",
+			"scope": "keyword.operator.accessor",
+			"settings": {
+				"foreground": "#97a7c8ff"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
