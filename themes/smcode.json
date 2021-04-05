@@ -290,6 +290,13 @@
 			}
 		},
 		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
