@@ -1116,6 +1116,13 @@
 			}
 		},
 		{
+			"name": "Substitution Punctuation",
+			"scope": "keyword.other.substitution.begin, keyword.other.substitution.end",
+			"settings": {
+				"foreground": "#56D6D6"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
