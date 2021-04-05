@@ -1130,6 +1130,13 @@
 			}
 		},
 		{
+			"name": "Operator",
+			"scope": "keyword.operator, constant.other.color, punctuation.separator.key-value",
+			"settings": {
+				"foreground": "#56D6D6"
+			}
+		},
+		{
 			"name": "Backtics(``) in Template Strings",
 			"scope": "string.template punctuation.definition.string",
 			"settings": {
