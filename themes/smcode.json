@@ -532,6 +532,13 @@
 			}
 		},
 		{
+			"name": "CSS Selector",
+			"scope": "selector.css.entity.other.attribute-name",
+			"settings": {
+				"foreground": "#FFCC00"
+			}
+		},
+		{
 			"name": "CSS Classes",
 			"scope": [
 				"entity.other.attribute-name.class"
