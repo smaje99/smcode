@@ -837,6 +837,21 @@
 			}
 		},
 		{
+			"name": "Markdown Punctuation",
+			"scope": [
+				"punctuation.definition.string.begin.markdown",
+				"punctuation.definition.string.end.markdown",
+				"punctuation.definition.metadata.markdown",
+				"punctuation.definition.markdown",
+				"beginning.punctuation.definition.quote.markdown",
+				"punctuation.definition.raw.markdown",
+				"meta.paragraph.markdown punctuation.definition.tag"
+			],
+			"settings": {
+				"foreground": "#56d6d6"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
