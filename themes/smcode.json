@@ -864,6 +864,16 @@
 			}
 		},
 		{
+			"name": "Markdown String",
+			"scope": [
+				"markdown.block.fenced.code.string",
+				"markdown.block.fenced.code.string.quote"
+			],
+			"settings": {
+				"foreground": "#c3e88d"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
