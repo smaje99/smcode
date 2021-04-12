@@ -820,6 +820,16 @@
 			}
 		},
 		{
+			"name": "Markdown Links/Images",
+			"scope": [
+				"markup.underline.link.markdown",
+				"markdown.underline.link.image.markdown"
+			],
+			"settings": {
+				"foreground": "#cb6cfe"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
