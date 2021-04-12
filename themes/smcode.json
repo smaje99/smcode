@@ -809,6 +809,17 @@
 			}
 		},
 		{
+			"name": "Markdown Link Description, GitHub KBD",
+			"scope": [
+				"string.other.link.title.markdown",
+				"string.other.link.description.markdown",
+				"meta.paragraph.markdown entity.name.tag.inline.any"
+			],
+			"settings": {
+				"foreground": "#61afef"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
