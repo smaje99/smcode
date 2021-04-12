@@ -802,6 +802,13 @@
 			}
 		},
 		{
+			"name": "JSON Links",
+			"scope": "meta.structure.dictionary.o string.quoted.double.detected-link",
+			"settings": {
+				"foreground": "#CB6CFE"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
