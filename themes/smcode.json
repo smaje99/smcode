@@ -874,6 +874,22 @@
 			}
 		},
 		{
+			"name": "Markdown Keyword",
+			"scope": [
+				"markup.fenced_code.block.markdown keyword.operator",
+				"markup.fenced_code.block.markdown keyword.operator.logical.python",
+				"markup.fenced.code.block.markdown keyword.operator",
+				"markup.fenced_code.block.markdown keyword.control",
+				"markup.fenced.code.block.markdown keyword.control",
+				"markup.fenced_code.block.markdown storage.type",
+				"markup.fenced_code.block.markdown storage.type.function.lambda",
+				"markdown.block.fenced.code.lambda.storage.type"
+			],
+			"settings": {
+				"foreground": "#61afef"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
