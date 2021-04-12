@@ -564,6 +564,14 @@
 			}
 		},
 		{
+			"name": "CSS property/constant",
+			"scope": "css.property-list.property-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#56d6d6"
+			}
+		},
+		{
 			"name": "Inserted",
 			"scope": [
 				"markup.inserted"
