@@ -1070,6 +1070,13 @@
 			}
 		},
 		{
+			"name": "Python Entity Name Type",
+			"scope": "entity.name.type.class.python",
+			"settings": {
+				"foreground": "#FC0"
+			}
+		},
+		{
 			"name": "Python Docstring",
 			"scope": "string.quoted.docstring.multi.python, string.quoted.docstring.multi.python keyword.control.flow.python",
 			"settings": {
