@@ -1062,6 +1062,14 @@
 			}
 		},
 		{
+			"name": "Python inheritance",
+			"scope": "meta.type.support.inheritance.python",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#56D6D6"
+			}
+		},
+		{
 			"name": "Python Docstring",
 			"scope": "string.quoted.docstring.multi.python, string.quoted.docstring.multi.python keyword.control.flow.python",
 			"settings": {
