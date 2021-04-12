@@ -852,6 +852,18 @@
 			}
 		},
 		{
+			"name": "Markdown Numbers and Constants",
+			"scope": [
+				"markdown.fenced_code.block.markdown constant.numeric",
+				"markdown.fenced.code.block.markdown constant.numeric",
+				"markdown.fenced_code.block.markdown constant.language",
+				"markdown.fenced.code.block.markdown constant.language"
+			],
+			"settings": {
+				"foreground": "#f78c6c"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
