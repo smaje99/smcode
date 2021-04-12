@@ -216,7 +216,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"background": "#ff5370",
+				"foreground": "#fff"
 			}
 		},
 		{
