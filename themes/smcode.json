@@ -1050,6 +1050,18 @@
 			}
 		},
 		{
+			"name": "Python function",
+			"scope": [
+				"python.meta.function-call.builtin.support.function",
+				"python.meta.type.support.function-call",
+				"python.meta.variable.function-call.legacy.builtin"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#FC0"
+			}
+		},
+		{
 			"name": "Python Docstring",
 			"scope": "string.quoted.docstring.multi.python, string.quoted.docstring.multi.python keyword.control.flow.python",
 			"settings": {
