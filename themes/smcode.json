@@ -310,6 +310,13 @@
 			}
 		},
 		{
+			"name": "Library function",
+			"scope": "support.function, support.class support.function",
+			"settings": {
+				"foreground": "#56D6D6"
+			}
+		},
+		{
 			"name": "C-related Block Level Variables",
 			"scope": [
 				"source.cpp meta.block variable.other"
