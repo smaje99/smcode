@@ -918,6 +918,13 @@
 			}
 		},
 		{
+			"name": "diff.inserted",
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "#a6e22e"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
