@@ -890,6 +890,13 @@
 			}
 		},
 		{
+			"name": "Markdown Assignment",
+			"scope": "markdown.block.fenced.code.operator.assignment",
+			"settings": {
+				"foreground": "#97a7c8ff"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
