@@ -897,6 +897,13 @@
 			}
 		},
 		{
+			"name": "Markdown Variable Parameter",
+			"scope": "markdown.block.variable.parameter",
+			"settings": {
+				"foreground": "#f78c6c"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
