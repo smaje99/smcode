@@ -938,6 +938,12 @@
 			}
 		},
 		{
+			"scope": "entity.name.filename.find-in-files",
+			"settings": {
+				"foreground": "#e6db74"
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
