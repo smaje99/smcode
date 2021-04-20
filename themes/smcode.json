@@ -1462,7 +1462,7 @@
 			"scope": "string",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": #a5ff90
+				"foreground": "#a5ff90"
 			}
 		},
 		{
